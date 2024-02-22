@@ -22,3 +22,5 @@ include:
     shield: jorne_left
   - board: nice_nano_v2
     shield: jorne_right
+  - board: nice_nano_v2
+    shield: settings_reset
